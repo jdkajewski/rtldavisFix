@@ -136,7 +136,7 @@ if weewx.__version__ < "3":
 # 
 # Call with:  /home/pi/work/bin/rtldavis -tf [transceiver-frequency: US, NZ or EU] -tr [transmitters]} 
 #
-DEFAULT_CMD = '/home/pi/work/bin/rtldavis -tf EU' 
+DEFAULT_CMD = '/home/pi/work/bin/rtldavis -tf US' 
 DEBUG_RAIN = 0
 DEBUG_PARSE = 0
 DEBUG_RTLD = 0
